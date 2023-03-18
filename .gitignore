@@ -1,3 +1,6 @@
+# Repository-specific items.
+papers
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
