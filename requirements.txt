@@ -1,6 +1,4 @@
-pip
-setuptools
 astroquery
-jupyterlab
 pandas
 scipy
+jupyterlab
