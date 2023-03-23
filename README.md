@@ -12,6 +12,8 @@ cd ~/src/conradhalling/astronomical_data
 python -m venv venv --upgrade-deps
 source venv/bin/activate
 pip install -r requirements.txt
+# Install the latest version of astroquery.
+pip install --pre --upgrade astroquery[all]
 ```
 
 ## Starting Jupyter Lab
